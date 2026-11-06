@@ -36,7 +36,7 @@ Projeto didático mostrando a evolução de um código simples para um código r
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/tabuada-python
+git clone https://github.com/ivanjuniorbyu/tabuada-python
 
 # Entre na pasta
 cd tabuada-python
